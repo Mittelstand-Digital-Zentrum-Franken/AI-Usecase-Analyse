@@ -1,0 +1,4 @@
+__pycache__/*
+frontend/mdz_usecase/package-lock.json
+frontend/mdz_usecase/.next/*
+frontend/mdz_usecase/node_modules/*

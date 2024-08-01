@@ -1,0 +1,5 @@
+mongoengine
+fastapi
+pydantic
+pyjwt
+passlib[bcrypt]

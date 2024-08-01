@@ -1,0 +1,34 @@
+version: '3.8'
+
+services:
+  mdz_usecase_api:
+    container_name: mdz_usecase_api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    tty: true   
+    volumes:
+      - ./:/project
+    #command: bash -c "source activate myenv"
+    working_dir: /project
+    ports:
+      - "88810:8000"
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.tracing.rule=Host(`lm3.hs-ansbach.de`) && PathPrefix(`/mdz_usecase`)"
+      - "traefik.http.routers.tracing.middlewares=tracing-stripprefix"
+      - "traefik.http.middlewares.tracing-stripprefix.stripprefix.prefixes=/mdz_usecase"
+      - "traefik.http.routers.tracing.service=mdz_usecase"
+      - "traefik.http.services.tracing.loadbalancer.server.port=8000"   
+    command: ["uvicorn", "main:app", "--host", "0.0.0.0", "--port", "8000","--root-path","/mdz_usecase"]
+    networks:
+      - traefik_web
+      - mdz_usecase
+
+networks:
+  traefik_web:
+    external: true
+  mdz_usecase:
+    external: true
+
+    
