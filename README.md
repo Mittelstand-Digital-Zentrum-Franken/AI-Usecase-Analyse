@@ -204,6 +204,7 @@ Die Ergebnisse der Evaluierung werden zur Kategorisierung und Bewertung von KI-L
 
 <!-- PARTNER -->
 ## Partner
+<img src="images/Partner.png" alt="Logos">
 <img src="images/Bundesministerium.png" alt="Logos">
 
 <br />
