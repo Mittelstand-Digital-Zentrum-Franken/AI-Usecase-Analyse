@@ -189,8 +189,8 @@ Die Ergebnisse der Evaluierung werden zur Kategorisierung und Bewertung von KI-L
 </p>
 
 * <p align="left">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Webside" height="30" width="40" />
-  Alle neuen Infos, Projekte, Kurse und Blogbeiträge findet ihr auf unserer <a href="https://digitalzentrum-franken.de/">Webside</a>
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="Website" height="30" width="40" />
+  Alle neuen Infos, Projekte, Kurse und Blogbeiträge findet ihr auf unserer <a href="https://digitalzentrum-franken.de/">Website</a>
 </p>
 
 * <p align="left">
@@ -204,7 +204,7 @@ Die Ergebnisse der Evaluierung werden zur Kategorisierung und Bewertung von KI-L
 
 <!-- PARTNER -->
 ## Partner
-<img src="images/Logos.png" alt="Logos">
+<img src="images/Bundesministerium.png" alt="Logos">
 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
