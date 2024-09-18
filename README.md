@@ -57,7 +57,7 @@ Aber bei all den Vorteilen durch den Einsatz von KI, kann dessen Implementierung
 > "Verschwende keine Zeit mit KI um der KI willen. Lass dich von dem motivieren, was sie für dich tun wird, nicht davon, wie sehr sie nach Science-Fiction klingt.“ 
   <br />Cassie Kozyrkov, Chief Decision Scientist bei Google
 
-die AI Usecase Analyse in Anlehung an das Paper `Wie man KI-Anwendungsfälle identifiziert und priorisiert` von <a href="https://www.appliedai.de/insights/how-to-find-and-prioritize-ai-use-cases">AppliedAI</a> entwickelt. Mit unserem Tool lassen sich KI Lösungen im Team Sammeln, Bewerten und die, für das Unternehmen, besten Ansätze identifizieren.
+FrAIa in Anlehung an das Paper `Wie man KI-Anwendungsfälle identifiziert und priorisiert` von <a href="https://www.appliedai.de/insights/how-to-find-and-prioritize-ai-use-cases">AppliedAI</a> entwickelt. Mit unserem Tool lassen sich KI Lösungen im Team Sammeln, Bewerten und die, für das Unternehmen, besten Ansätze identifizieren.
 
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
