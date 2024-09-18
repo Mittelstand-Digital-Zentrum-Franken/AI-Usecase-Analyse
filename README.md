@@ -6,9 +6,11 @@
   <br>
   <a href="https://digitalzentrum-franken.de/"><img src="images/MD_Logo.png" alt="Markdownify" width="200"></a>
   <br>
-  AI Usecase Analyse
+  FrAIa
   <br>
 </h1>
+<h3 align="center">Die Franken AI Analyse</h3>
+
 <h4 align="center">Der einfache Weg eure AI Anwendungsfälle zu Evaluieren <a href="" target="_blank">Link zum Test</a>.</h4>
 
 
@@ -63,7 +65,7 @@ die AI Usecase Analyse in Anlehung an das Paper `Wie man KI-Anwendungsfälle ide
 
 <!-- HOW TO USE -->
 ## How to use
-Die Anwendung der AI Usecase Analyse ist äußerst benutzerfreundlich. Mithilfe von Popups wirst du schnell und unkompliziert durch unseren Evaluierungsprozess geführt. Die Ergebnisse der Evaluierung werden in der obenstehenden Matrix dargestellt. Jeder Punkt repräsentiert eine potenzielle KI-Lösung. Wenn du mit der Maus über einen dieser Punkte fährst, werden zusätzliche Details zu dieser Lösung angezeigt.
+Die Anwendung von FrAIa ist äußerst benutzerfreundlich. Mithilfe von Popups wirst du schnell und unkompliziert durch unseren Evaluierungsprozess geführt. Die Ergebnisse der Evaluierung werden in der obenstehenden Matrix dargestellt. Jeder Punkt repräsentiert eine potenzielle KI-Lösung. Wenn du mit der Maus über einen dieser Punkte fährst, werden zusätzliche Details zu dieser Lösung angezeigt.
 
 Im Folgenden werden die vier wichtigsten Aktion Schritt für Schritt erläutert:
 -	Anlegen einer Organisation
