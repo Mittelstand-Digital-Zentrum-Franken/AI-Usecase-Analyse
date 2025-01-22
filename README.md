@@ -203,6 +203,14 @@ Die Ergebnisse der Evaluierung werden zur Kategorisierung und Bewertung von KI-L
 <br />
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<br />
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 <!-- PARTNER -->
 ## Partner
